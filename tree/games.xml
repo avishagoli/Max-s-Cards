@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<games>
+  <game isPublish="false" GameCode="118">
+    <GameName>סס</GameName>
+    <GameInstructions>סס</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="117">
+    <GameName>asd</GameName>
+    <GameInstructions>asd</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="116">
+    <GameName>אבישג</GameName>
+    <GameInstructions>הוראות---משחק</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="115">
+    <GameName>אבישג</GameName>
+    <GameInstructions>אורנים</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="114">
+    <GameName>אבישג</GameName>
+    <GameInstructions>אוליאל</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="113">
+    <GameName>בדיקה</GameName>
+    <GameInstructions>אורנים</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="112">
+    <GameName>בדיקה</GameName>
+    <GameInstructions>אורנים</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="111">
+    <GameName>בדיקה</GameName>
+    <GameInstructions>אורנים</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="110">
+    <GameName>אבישג</GameName>
+    <GameInstructions>אורנים</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="109">
+    <GameName>בדיקה דניאל</GameName>
+    <GameInstructions>222</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="108">
+    <GameName>אבישג</GameName>
+    <GameInstructions>הוראות---משחק</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="false" GameCode="107">
+    <GameName>אבישג</GameName>
+    <GameInstructions>הוראות---משחק</GameInstructions>
+    <items />
+  </game>
+  <game isPublish="true" GameCode="106">
+    <GameName>cshev 4</GameName>
+    <GameInstructions>בדיקה 4</GameInstructions>
+    <items>
+      <item AnsType="image" feedback="true" id="26">imageNewName30_10_21-19_49_25_5821.JPG</item>
+      <item AnsType="image" feedback="true" id="25">imageNewName30_10_21-19_49_22_6768.JPG</item>
+      <item AnsType="image" feedback="true" id="24">imageNewName30_10_21-19_49_19_5806.jpg</item>
+      <item AnsType="image" feedback="true" id="23">imageNewName30_10_21-19_49_16_4483.jpeg</item>
+      <item AnsType="image" feedback="true" id="22">imageNewName30_10_21-19_49_13_6393.jpeg</item>
+      <item AnsType="image" feedback="true" id="21">imageNewName30_10_21-19_49_10_7313.jpg</item>
+      <item AnsType="image" feedback="true" id="20">imageNewName30_10_21-19_49_07_0999.jpg</item>
+      <item AnsType="image" feedback="true" id="19">imageNewName30_10_21-19_49_04_1290.JPG</item>
+      <item AnsType="image" feedback="true" id="18">imageNewName30_10_21-19_49_00_8833.jpeg</item>
+      <item AnsType="image" feedback="true" id="17">imageNewName30_10_21-19_48_58_2432.JPEG</item>
+      <item AnsType="image" feedback="true" id="16">imageNewName30_10_21-19_48_22_3451.JPEG</item>
+      <item AnsType="image" feedback="true" id="15">imageNewName30_10_21-19_48_19_5362.jpeg</item>
+      <item AnsType="image" feedback="true" id="14">imageNewName30_10_21-19_48_16_0991.jpeg</item>
+      <item AnsType="image" feedback="true" id="13">imageNewName30_10_21-19_48_12_8373.JPG</item>
+      <item AnsType="image" feedback="true" id="12">imageNewName30_10_21-19_48_09_7691.JPEG</item>
+      <item AnsType="text" feedback="true" id="11">לפפפפפפפפפפפפפפפפפפפפפפפפפפפפפ</item>
+      <item AnsType="image" feedback="false" id="10">imageNewName30_10_21-19_23_09_1597.jpg</item>
+      <item AnsType="image" feedback="false" id="9">imageNewName30_10_21-19_23_06_2296.jpg</item>
+      <item AnsType="image" feedback="false" id="8">imageNewName30_10_21-19_23_03_2825.jpg</item>
+      <item AnsType="image" feedback="false" id="7">imageNewName30_10_21-19_23_00_2651.jpg</item>
+      <item AnsType="image" feedback="false" id="6">imageNewName30_10_21-19_22_57_6131.jpg</item>
+      <item AnsType="image" feedback="true" id="5">imageNewName30_10_21-19_22_53_1006.jpeg</item>
+      <item AnsType="image" feedback="true" id="4">imageNewName30_10_21-19_22_50_0871.jpg</item>
+      <item AnsType="image" feedback="true" id="3">imageNewName30_10_21-19_22_46_9360.jpeg</item>
+      <item AnsType="image" feedback="true" id="2">imageNewName30_10_21-19_22_44_2019.JPG</item>
+      <item AnsType="image" feedback="true" id="1">imageNewName30_10_21-19_22_41_4095.JPEG</item>
+    </items>
+  </game>
+  <game isPublish="true" GameCode="105">
+    <GameName>בדיקה</GameName>
+    <GameInstructions>אוליאל</GameInstructions>
+    <items>
+      <item AnsType="text" feedback="false" id="41">123456</item>
+      <item AnsType="text" feedback="false" id="40">123456789</item>
+      <item AnsType="text" feedback="false" id="39">12345678</item>
+      <item AnsType="text" feedback="false" id="38">1234567</item>
+      <item AnsType="text" feedback="false" id="37">1234567891</item>
+      <item AnsType="text" feedback="true" id="36">12345678912</item>
+      <item AnsType="text" feedback="true" id="35">123456789123</item>
+      <item AnsType="text" feedback="true" id="34">asdasdasd</item>
+      <item AnsType="image" feedback="true" id="2">imageNewName30_10_21-12_14_12_4017.JPG</item>
+      <item AnsType="image" feedback="true" id="1">imageNewName30_10_21-12_14_06_7612.jpeg</item>
+    </items>
+  </game>
+  <game isPublish="true" GameCode="103">
+    <GameName>גמלכמכמלכ</GameName>
+    <GameInstructions>כךגדחלכחלכחלכ</GameInstructions>
+    <items>
+      <item AnsType="image" feedback="false" id="44">imageNewName30_10_21-19_19_48_3529.jpeg</item>
+      <item AnsType="text" feedback="false" id="43">asd</item>
+      <item AnsType="text" feedback="false" id="42">asd</item>
+      <item AnsType="text" feedback="false" id="40">asd</item>
+      <item AnsType="text" feedback="false" id="39">asd</item>
+      <item AnsType="text" feedback="false" id="38">asd</item>
+      <item AnsType="text" feedback="false" id="37">asd</item>
+      <item AnsType="text" feedback="false" id="36">asd</item>
+      <item AnsType="text" feedback="false" id="35">asd</item>
+      <item AnsType="text" feedback="false" id="34">asd</item>
+      <item AnsType="text" feedback="false" id="33">asd</item>
+      <item AnsType="text" feedback="false" id="32">asd</item>
+      <item AnsType="text" feedback="false" id="31">asd</item>
+      <item AnsType="text" feedback="false" id="30">55</item>
+      <item AnsType="text" feedback="false" id="29">44</item>
+      <item AnsType="text" feedback="false" id="28">33</item>
+      <item AnsType="text" feedback="false" id="27">22</item>
+      <item AnsType="text" feedback="true" id="23">asdasdasd</item>
+      <item AnsType="image" feedback="true" id="21">imageNewName30_10_21-19_20_47_2756.JPG</item>
+      <item AnsType="text" feedback="true" id="8">123</item>
+      <item AnsType="text" feedback="true" id="7">123</item>
+      <item AnsType="text" feedback="true" id="6">6</item>
+      <item AnsType="text" feedback="true" id="5">5</item>
+      <item AnsType="text" feedback="true" id="4">3</item>
+      <item AnsType="text" feedback="true" id="3">2</item>
+      <item AnsType="image" feedback="true" id="1">imageNewName29_10_21-02_11_26_0699.PNG</item>
+    </items>
+  </game>
+  <game isPublish="true" GameCode="101">
+    <GameName>animals</GameName>
+    <GameInstructions>תפסו את כל היונקים</GameInstructions>
+    <items>
+      <item AnsType="image" feedback="true" id="21">imageNewName30_10_21-19_48_00_0881.JPEG</item>
+      <item AnsType="image" feedback="false" id="1">bee.jpg</item>
+      <item AnsType="image" feedback="false" id="2">butterfly.jpg</item>
+      <item AnsType="image" feedback="true" id="3">giraffe.jpg</item>
+      <item AnsType="image" feedback="true" id="4">sheep.jpg</item>
+      <item AnsType="image" feedback="true" id="5">rabbit.jpg</item>
+      <item AnsType="image" feedback="true" id="6">dog.jpg</item>
+      <item AnsType="image" feedback="true" id="7">cat.jpg</item>
+      <item AnsType="text" feedback="true" id="8">אלפקה</item>
+      <item AnsType="text" feedback="true" id="9">עטלף</item>
+      <item AnsType="image" feedback="true" id="10">pig.jpg</item>
+      <item AnsType="image" feedback="false" id="11">snail.jpg</item>
+      <item AnsType="image" feedback="false" id="12">spider.jpg</item>
+      <item AnsType="image" feedback="true" id="13">dolphin.jpg</item>
+      <item AnsType="image" feedback="false" id="14">penguin.jpg</item>
+      <item AnsType="image" feedback="false" id="15">turtle.jpg</item>
+      <item AnsType="image" feedback="false" id="16">fish.jpg</item>
+      <item AnsType="text" feedback="false" id="17">תנין</item>
+      <item AnsType="text" feedback="false" id="18">כריש</item>
+      <item AnsType="text" feedback="false" id="19">נחש</item>
+      <item AnsType="image" feedback="true" id="20">lion.jpg</item>
+    </items>
+  </game>
+  <game isPublish="true" GameCode="102">
+    <GameName>Consumables</GameName>
+    <GameInstructions>תפסו את כל המוצרים שמתכלים תוך 10 שנים</GameInstructions>
+    <items>
+      <item AnsType="image" feedback="true" id="1">paper_plane.jpg</item>
+      <item AnsType="image" feedback="true" id="2">eggplant.jpg</item>
+      <item AnsType="image" feedback="true" id="3">paper_box.jpg</item>
+      <item AnsType="image" feedback="true" id="4">tomato.jpg</item>
+      <item AnsType="image" feedback="true" id="5">socks.jpg</item>
+      <item AnsType="image" feedback="true" id="6">shirt.jpg</item>
+      <item AnsType="image" feedback="true" id="7">milk.jpg</item>
+      <item AnsType="text" feedback="true" id="8">מלפפון</item>
+      <item AnsType="text" feedback="true" id="9">אנציקלופדיה</item>
+      <item AnsType="text" feedback="true" id="9">כדור_צמר</item>
+      <item AnsType="image" feedback="false" id="10">glass_battle.jpg</item>
+      <item AnsType="image" feedback="false" id="11">lamp.jpg</item>
+      <item AnsType="image" feedback="false" id="12">pencil.jpg</item>
+      <item AnsType="image" feedback="false" id="13">Canned-food.jpg</item>
+      <item AnsType="image" feedback="false" id="14">shampo.jpg</item>
+      <item AnsType="image" feedback="false" id="15">pot.jpg</item>
+      <item AnsType="image" feedback="false" id="16">chair.jpg</item>
+      <item AnsType="text" feedback="false" id="17">בקבוק_פלסטיק</item>
+      <item AnsType="text" feedback="false" id="18">קלקר</item>
+      <item AnsType="text" feedback="false" id="19">שימורים</item>
+      <item AnsType="text" feedback="false" id="20">טיטול</item>
+    </items>
+  </game>
+</games>

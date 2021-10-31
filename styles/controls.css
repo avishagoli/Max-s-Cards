@@ -1,0 +1,140 @@
+﻿
+/*Buttons*/
+
+.icon-btn{
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: all 0.2s;
+}
+
+    .icon-btn:hover {
+        background-color: ghostwhite;
+        border-radius: 15px;
+    }
+
+    .icon-btn > img {
+        width: 50px;
+        padding: 5px;
+    }
+
+
+.img-btn {
+    display: block;
+    margin: auto;
+    width: 40px;
+    padding: 10px;
+    transition: all 0.2s;
+    border-radius: 15px;
+    border: none;
+    background-color: transparent;
+}
+
+    .img-btn:hover {
+        background-color: #ffffffb5;
+    }
+
+.img-btn-header:not(:disabled) {
+    transition: all 0.2s;
+    border-radius: 8px;
+    padding: 2px 12px;
+    border: none;
+    background-color: #C1D4D9;
+    box-shadow: 2px 2px 5px 0px #00000073;
+}
+
+    .img-btn-header:hover {
+        background-color: #ffffffb5;
+    }
+
+
+    .close-btn {
+        color: #5c7a7a !important;
+        font-size: 2rem;
+        padding: 0rem 0.5rem;
+    }
+
+    .close-btn:hover {
+        color: black !important;
+        cursor: pointer;
+    }
+
+
+.publish-checkbox input[type="checkbox"] {
+    width: 17px;
+    height: 17px;
+}
+
+.btn-primary {
+    background-color: #DAE3F3;
+    border-radius: 20px;
+    padding: 3px 25px;
+    color: black;
+    font-weight: 500;
+    border: none;
+    box-shadow: 2px 2px 2px 0 rgb(0 0 0 / 50%);
+}
+
+    .btn-primary:hover, btn-primary:focus, btn-primary:active {
+        background-color: hsl(218deg 70% 70%);
+        color: white;
+    }
+
+    .btn-primary:disabled, .btn-primary.disabled {
+        background-color: #E7E6E6;
+        color: #565656;
+    }
+
+.collapse-btn {
+    position: fixed;
+    right: 50%;
+    margin-top: -6px;
+    background-color: #4C5459;
+    border-radius: 50%;
+    padding: 6px;
+    box-shadow: 3px 3px 4px 0px #5a5a5a61 !important;
+    width: 30px;
+    height: 30px;
+}
+
+    .collapse-btn.icon-btn > img {
+        width: 25px;
+        filter: invert(1);
+        margin-top: -5px;
+        margin-right: 1 px;
+    }
+
+    .collapse-btn:hover {
+        border-radius: 50%;
+        background-color: lightgray;
+    }
+        .collapse-btn:hover > img {
+            filter: invert(0);
+        }
+        /*Text boxes*/
+        .input-wrapper {
+            position: relative;
+        }
+
+.counter-container {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 10px;
+}
+.counter-container-inner {
+    position: absolute;
+    left: 56%;
+    top: 68%;
+    padding: 10px;
+}
+
+.input-instruction {
+    margin-right:4px;
+}
+.custom-alert {
+    color: #842029;
+}
